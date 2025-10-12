@@ -164,12 +164,11 @@ npm run dev
 
 ## 👥 Auteurs
 
-- **Aabid Mohamed Amine**  
-  Master 2 Science et Ingénierie des Données – Université Mohammed V, Rabat  
-  📧 amine.aabid00@gmail.com  
-  💼 [GitHub](https://github.com/Developer17898) | [LinkedIn](https://www.linkedin.com/in/mohamed-amine-aabid/)
-
 - **Benzaitoune Abdel Kebir**  
+  Master 2 Science et Ingénierie des Données – Université Mohammed V, Rabat  
+  📧 beabdo14@gmail.com  
+
+- **Aabid Mohamed Amine**  
 - **Najib Ilham**  
 - **Nidal Igrou**
 
