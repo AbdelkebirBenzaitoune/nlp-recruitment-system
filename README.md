@@ -1,5 +1,9 @@
 # 🧠 NLP Recruitment System – Assistant Carrière Intelligent
 
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://abdelkebirbenzaitoune.github.io/nlp-recruitment-system)
+[![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://python.org)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
 ## 📘 Description du projet
 
 Application web d’aide à la candidature qui analyse un **CV** et une **offre d’emploi**, calcule un **score de compatibilité**, génère des **quiz personnalisés** pour mesurer les compétences et propose des **recommandations ciblées** (formations, projets, certifications).  
