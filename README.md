@@ -74,6 +74,15 @@ nlp-recruitment-system/
   results : { user, type (cv|job|matching|quiz), data, meta, refs, createdAt }
 ---
 
+## 🚀 Utilisation
+
+```python
+from recruitment_system import RecruitmentAnalyzer
+
+analyzer = RecruitmentAnalyzer()
+results = analyzer.analyze_cv("cv.pdf", "job_description.txt")
+
+
 ## 🚀 Installation et exécution
 
 ### 1️⃣ Cloner le projet
